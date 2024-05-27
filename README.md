@@ -1,5 +1,6 @@
 # nuxt-vuetify-drizzle-jwt
 A boilerplate example of an auth system using JsonWebToken (JOSE) with Nuxt 3, Vuetify, and Drizzle ORM.
+Vanilla local provider auth system with the "salt&pepper" security metodology.
 
 ## Installation
 
